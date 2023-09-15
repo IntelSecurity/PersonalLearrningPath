@@ -3,3 +3,8 @@ This is a journey of my path into becoming a machine learning engineer. Every ta
 
 
 - Falcon
+
+The first thing I began searching for was a complete series for understanding bash on youtube that was comfortable enough to listen to as i casually went through my day. I find that my learning style encompasses a balance of repetitive codinng paired with audio reinforcement throughout the day. Thats when i came across the Learn Linux TV series on Bash Scripting. After sitting through the introductory video, i think its safe to say this is a perfect place to start the journey.
+
+https://www.youtube.com/watch?v=2733cRPudvI&list=PLT98CRl2KxKGj-VKtApD8-zCqSaN2mD4w&index=1
+
