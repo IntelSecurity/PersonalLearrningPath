@@ -1,22 +1,25 @@
-Project: Command-Line Task Manager
-
 Step 1: Define the Project Scope
 
-Purpose: Create a command-line program to manage tasks.
-Goals: Allow users to add, list, and mark tasks as done.
-Constraints: The program should be text-based and run in the terminal.
+Purpose: Clearly state the purpose of your project. In this case, the purpose is to create a command-line task manager.
+
+Goals: Specify what you want to achieve with your program. For our task manager, the goals are to allow users to add, list, and mark tasks as done.
+
+Constraints: Set any limitations or constraints for your project. In this case, the program should be text-based and run in the terminal.
+
 Step 2: Gather Requirements
 
-Features:
+Features: List the features your program should have.
+
 Add a task with a title and description.
 List all tasks.
 Mark a task as done.
-Constraints:
+Constraints: Define any specific conditions or limitations for your project.
+
 Tasks should persist between program runs (store them in a file).
 Users should have a simple and intuitive interface (text-based).
 Step 3: Break Down the Project
 
-Tasks:
+Tasks: Divide your project into smaller, manageable tasks or modules.
 Set up the project structure.
 Implement task addition functionality.
 Implement task listing functionality.
@@ -25,19 +28,21 @@ Implement data persistence.
 Create a user-friendly menu.
 Step 4: Create a Timeline
 
+Create a timeline to estimate the time required for each task or module. For example:
 Week 1: Set up the project and implement task addition.
 Week 2: Implement task listing and completion.
 Week 3: Add data persistence and create a user menu.
 Week 4: Testing, debugging, and documentation.
 Step 5: Design the Architecture
 
-Main components:
-Task structure (to store task data).
-Functions for adding, listing, and marking tasks.
-File I/O functions for data persistence.
-User interface functions.
+Main Components: Identify the main components or modules of your program.
+Task structure: Define a structure to store task data, including a title, description, and completion status.
+Functions: Create functions for adding tasks, listing tasks, marking tasks as done, and any other necessary functionality.
+File I/O: Plan functions for reading from and writing to a file for data persistence.
+User Interface: Consider how you'll present the menu to the user and handle user input.
 Step 6: Write Pseudocode
 
+Write pseudocode to outline the program's logic without worrying about syntax. Here's a simplified example:
 plaintext
 Copy code
 1. Initialize a list of tasks.
@@ -57,20 +62,21 @@ Copy code
 4. Repeat the menu until the user chooses to exit.
 Step 7: Choose Development Tools
 
-Code Editor: Use a code editor of your choice (e.g., Visual Studio Code, Code::Blocks).
-Compiler: You can use GCC, a popular C compiler.
-Debugger: GCC also includes the GDB debugger.
+Select the development environment and tools you'll use for coding in C, such as a code editor (e.g., Visual Studio Code), a compiler (e.g., GCC), and a debugger (e.g., GDB).
 Step 8: Plan for Error Handling
 
-Handle cases such as invalid input, file I/O errors, and incorrect task numbers.
+Identify potential errors and how you'll handle them. For example:
+Handle invalid input (e.g., non-numeric input for task numbers).
+Deal with file I/O errors (e.g., file not found or permission issues).
 Step 9: Test Plan
 
+Plan how you'll test your program to ensure it works correctly.
 Test adding, listing, and marking tasks.
-Test error scenarios (e.g., entering non-numeric input for task numbers).
+Test error scenarios.
 Test data persistence by exiting and relaunching the program.
 Step 10: Version Control
 
-Set up a Git repository for your project to track changes.
+Set up a version control system (e.g., Git) to track changes to your code.
 Step 11: Documentation
 
 Add comments to your code for clarity.
@@ -83,7 +89,7 @@ Step 13: Budget
 No budget is required for this project, as it's purely software-based.
 Step 14: Risk Assessment
 
-Risks may include data corruption, user interface issues, or programming bugs. Have backup plans and strategies to mitigate these risks.
+Identify potential risks, such as data corruption, UI issues, or programming bugs. Develop strategies to mitigate these risks.
 Step 15: Start Coding
 
-Begin implementing the project, following your pseudocode and design.
+Begin implementing the project one step at a time, following your pseudocode and design. Use C programming concepts like structs, functions, and file I/O to build the functionality.
