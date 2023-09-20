@@ -1,0 +1,89 @@
+Project: Command-Line Task Manager
+
+Step 1: Define the Project Scope
+
+Purpose: Create a command-line program to manage tasks.
+Goals: Allow users to add, list, and mark tasks as done.
+Constraints: The program should be text-based and run in the terminal.
+Step 2: Gather Requirements
+
+Features:
+Add a task with a title and description.
+List all tasks.
+Mark a task as done.
+Constraints:
+Tasks should persist between program runs (store them in a file).
+Users should have a simple and intuitive interface (text-based).
+Step 3: Break Down the Project
+
+Tasks:
+Set up the project structure.
+Implement task addition functionality.
+Implement task listing functionality.
+Implement task completion functionality.
+Implement data persistence.
+Create a user-friendly menu.
+Step 4: Create a Timeline
+
+Week 1: Set up the project and implement task addition.
+Week 2: Implement task listing and completion.
+Week 3: Add data persistence and create a user menu.
+Week 4: Testing, debugging, and documentation.
+Step 5: Design the Architecture
+
+Main components:
+Task structure (to store task data).
+Functions for adding, listing, and marking tasks.
+File I/O functions for data persistence.
+User interface functions.
+Step 6: Write Pseudocode
+
+plaintext
+Copy code
+1. Initialize a list of tasks.
+2. Display a menu to the user.
+3. Based on the user's choice:
+   - If they choose to add a task:
+     a. Prompt for task title and description.
+     b. Create a new task with the input data and add it to the list.
+   - If they choose to list tasks:
+     a. Display all tasks in the list.
+   - If they choose to mark a task as done:
+     a. Prompt for the task number to mark as done.
+     b. Mark the selected task as done.
+   - If they choose to exit:
+     a. Save tasks to a file.
+     b. Exit the program.
+4. Repeat the menu until the user chooses to exit.
+Step 7: Choose Development Tools
+
+Code Editor: Use a code editor of your choice (e.g., Visual Studio Code, Code::Blocks).
+Compiler: You can use GCC, a popular C compiler.
+Debugger: GCC also includes the GDB debugger.
+Step 8: Plan for Error Handling
+
+Handle cases such as invalid input, file I/O errors, and incorrect task numbers.
+Step 9: Test Plan
+
+Test adding, listing, and marking tasks.
+Test error scenarios (e.g., entering non-numeric input for task numbers).
+Test data persistence by exiting and relaunching the program.
+Step 10: Version Control
+
+Set up a Git repository for your project to track changes.
+Step 11: Documentation
+
+Add comments to your code for clarity.
+Create a simple user manual explaining how to use the program.
+Step 12: Communication
+
+If working with a team, hold regular meetings to discuss progress and issues.
+Step 13: Budget
+
+No budget is required for this project, as it's purely software-based.
+Step 14: Risk Assessment
+
+Risks may include data corruption, user interface issues, or programming bugs. Have backup plans and strategies to mitigate these risks.
+Step 15: Start Coding
+
+Begin implementing the project, following your pseudocode and design.
