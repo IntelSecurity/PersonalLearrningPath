@@ -1,0 +1,106 @@
+If you can coplete each of these 100 exercisies you are proficient enough to hold a career in anything C related. Good Luck!!
+
+Beginner Level (1-25):
+
+Write a program to calculate the sum of two numbers.
+Create a basic calculator program that performs addition, subtraction, multiplication, and division.
+Implement a program that converts temperatures between Fahrenheit and Celsius.
+Write a program that calculates the area of basic geometric shapes (circle, rectangle, triangle).
+Create a program that simulates a simple ATM machine for balance inquiry and withdrawal.
+Implement a program to convert currency from one exchange rate to another.
+Write a program to check if a given number is prime.
+Develop a program that reverses a given string.
+Build a basic to-do list application that allows adding, viewing, and deleting tasks.
+Create a program to calculate the factorial of a number using recursion.
+Implement a basic file management system that can create, read, update, and delete files.
+Write a program to find and replace text in a file.
+Develop a program to generate a random password.
+Create a simple text-based calendar application that allows adding and viewing events.
+Implement a program to search for a specific word in a text document.
+Write a program that simulates a basic game like "Guess the Number."
+Create a program to generate basic statistics from a set of numbers (mean, median, mode).
+Build a basic text editor that can open, edit, and save text files.
+Develop a program that generates and prints Fibonacci numbers.
+Write a program to check if a given year is a leap year.
+Implement a basic stack data structure with push and pop operations.
+Create a program to generate and display the multiplication table of a number.
+Develop a program to find the greatest common divisor (GCD) of two numbers.
+Write a program that calculates the perimeter and area of a rectangle.
+Implement a basic linked list data structure with insert and delete operations.
+Intermediate Level (26-50):
+
+Build a program that simulates a simple email sending and receiving system.
+Create a program to manage a library catalog, allowing users to add, search for, and borrow books.
+Implement a program to perform matrix multiplication.
+Develop a basic command-line calculator with support for complex arithmetic.
+Write a program to calculate the n-th term of the Taylor series (e.g., sine or cosine).
+Create a program that simulates a basic chat application with user-to-user messaging.
+Implement a basic memory management system with malloc, free, and memory tracking.
+Build a program to parse and process CSV files.
+Write a program to perform basic image manipulation tasks (e.g., resizing or cropping).
+Develop a simple text-based RPG (Role-Playing Game) with characters and combat.
+Implement a basic database management system to store and retrieve data.
+Create a program to analyze and visualize data using charts (e.g., bar charts or pie charts).
+Build a program that simulates a basic operating system process scheduler.
+Write a program to perform encryption and decryption of text data.
+Develop a program to perform basic 2D graphics rendering.
+Implement a basic compiler or interpreter for a simple programming language.
+Create a program to simulate a basic file compression algorithm (e.g., Run-Length Encoding).
+Write a program to simulate a file backup and restoration system.
+Develop a program that generates fractal patterns (e.g., Mandelbrot set).
+Implement a program to perform basic 3D graphics rendering.
+Build a program that simulates a network packet analyzer.
+Create a program to simulate a basic voice or text-based virtual assistant.
+Write a program to perform image recognition using basic machine learning techniques.
+Implement a basic web server that serves static content.
+Develop a program for real-time data processing (e.g., stock market analysis).
+Advanced Level (51-75):
+
+Build a program to implement a custom networking protocol.
+Create a distributed file system that spans multiple servers.
+Implement a program for real-time video or audio streaming.
+Develop a basic neural network from scratch for machine learning tasks.
+Write a program to perform natural language processing (NLP) tasks.
+Build a basic content management system (CMS) for websites.
+Implement a program for real-time data analytics and visualization.
+Create a program that simulates a basic database replication system.
+Develop a distributed computing framework for parallel processing.
+Write a program to perform deep learning tasks using a neural network library.
+Implement a basic blockchain or cryptocurrency system.
+Build a program for real-time speech recognition and synthesis.
+Create a program to simulate a basic virtual reality (VR) environment.
+Develop a program for real-time computer vision and object recognition.
+Write a program to perform advanced natural language understanding (NLU).
+Implement a basic search engine with web crawling and indexing capabilities.
+Build a program to perform real-time sentiment analysis on social media data.
+Develop a program for real-time image processing and computer graphics.
+Create a program to simulate autonomous robot control.
+Implement a program to perform automated trading on financial markets.
+Build a program to simulate a self-driving car system.
+Write a program to perform real-time data streaming and analysis at scale.
+Develop a program for real-time recommendation systems (e.g., e-commerce).
+Implement a program to analyze and optimize code for high-performance computing.
+Create a program to simulate a distributed artificial intelligence (AI) network.
+Expert Level (76-100):
+
+Build a program to simulate complex simulations (e.g., climate modeling or physics simulations).
+Implement a program to control a large-scale robotics system.
+Create a program for natural language generation (NLG) and text summarization.
+Develop a program for real-time facial recognition and emotion detection.
+Write a program to simulate a quantum computing system.
+Build a program for autonomous drone control and navigation.
+Implement a program for real-time language translation with machine learning.
+Create a program for real-time medical diagnostics using AI.
+Develop a program for real-time fraud detection in financial transactions.
+Implement a program to simulate a virtual reality (VR) or augmented reality (AR) game.
+Build a program for real-time speech synthesis with natural intonation.
+Write a program for real-time traffic management and optimization.
+Develop a program to analyze and visualize complex biological data (e.g., genomics).
+Implement a program for real-time geospatial analysis and mapping.
+Create a program to simulate a self-aware and learning AI system.
+Build a program to simulate a virtual ecosystem with evolving creatures.
+Implement a program for real-time monitoring and control of smart cities.
+Develop a program for real-time financial risk analysis and prediction.
+Write a program for real-time automated scientific research and discovery.
+Build a program for real-time optimization of supply chain logistics.
+Create a program
