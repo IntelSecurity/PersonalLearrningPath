@@ -1,0 +1,50 @@
+/** C Template **/
+#include <stdio.h>
+/** Header Files **/
+/** A header file is a file with extension .h
+ which contains C function declarations and macro
+ definitions to be shared between several source files.
+ All lines that start with # are processed by a preprocessor
+ which is a program invoked by the compiler. **/
+ /** Header Files for C **/
+ /** stddef.h – Defines several useful types and macros.
+    stdint.h – Defines exact width integer types.
+    stdio.h – Defines core input and output functions
+    stdlib.h – Defines numeric conversion functions,
+           pseudo-random network generator, and memory allocation
+    string.h – Defines string handling functions
+    math.h – Defines common mathematical functions.
+ **/
+int main ()
+ /** Main Method Declaration **/
+ /**It is the entry point of a C program and the execution
+ typically begins with the first line of the main(). The 
+ empty brackets indicate that the main doesn’t take any 
+ parameter. The int that was 
+ written before the main indicates the return type of main().
+ The value returned by the main indicates the status of program
+ termination.**/
+{
+int a = 10;
+int b = 20;
+ /** integers **/
+printf("%d", b);
+ /** Statement **/
+ /**Statements are the instructions given to the compiler. In C,
+ a statement is always terminated by a semicolon (;) **/
+return 0;
+ /** Return Statement **/
+ /**The last part of any C function is the return statement. The
+ return statement refers to the return values from a function.
+ This return statement and return value depend upon the return
+ type of the function. The return statement in our program
+ returns the value from main(). The returned value may be used
+ by an operating system to know the termination status of your
+ program. The value 0 typically means successful termination.**/ 
+}
+/** Body of main (Lines 27-32) **/
+/** The body of a function in the C program refers to statements that
+are a part of that function. It can be anything like manipulations,
+searching, sorting, printing, etc. A pair of curly brackets define
+the body of a function. All functions must start and end with curly brackets.
+**/
